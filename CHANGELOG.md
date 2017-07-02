@@ -1,8 +1,5 @@
-# sbmod-
+# sbmod-mits-loveletter
 # changelog
 
-### vur
-+ b
-
-### v0.1 yyyy-mm-dd
-+ a
+### v0.1 2017-07-02
++ love letter in the sky
