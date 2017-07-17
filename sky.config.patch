@@ -1,25 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/spaceDebrisFields/-",
-    "value": {
-      "velocityRange": [
-        0,
-        0
-      ],
-      "cellSize": 2000,
-      "screenBuffer": 1000,
-      "cellCountRange": [
-        0,
-        1
-      ],
-      "angularVelocityRange": [
-        0,
-        0
-      ],
-      "list": [
-        "/sky/glitters/loveletter.png"
-      ]
-    }
+    "path": "/spaceDebrisFields/3/list/-",
+    "value": "/sky/glitters/loveletter.png"
   }
 ]
